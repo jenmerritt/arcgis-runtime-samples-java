@@ -37,3 +37,7 @@ The scene launches with a view of northern Snowdonia National Park. Three points
 ## Additional information
 
 This sample uses an elevation service to add elevation/terrain to the scene. Graphics are positioned relative to that surface for the `DRAPED_BILLBOARDED`, `DRAPED_FLAT`, `ABSOLUTE` and `RELATIVE` surface placement modes.
+
+## Tags
+
+3D, absolute, altitude, draped, elevation, floating, relative, scenes, sea level, surface placement
