@@ -22,8 +22,8 @@ Wait for the map image layer to load. Click the 'Change sublayer renderer' butto
 
 ## Relevant API
 
-* ClassBreaksRenderer
 * ArcGISMapImageSubLayer
+* ClassBreaksRenderer
 
 ## About the data
 
@@ -32,6 +32,14 @@ This application displays census data from an ArcGIS Server map service. It cont
 ## Additional information
 
 The service hosting the layer must support dynamic layers to be able to change the rendering of sublayers.
+
+## Offline data
+
+This should be allowed. 
+
+## Not an optional section
+
+This section should not be be allowed. 
 
 ## Tags
 
