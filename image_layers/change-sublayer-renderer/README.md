@@ -39,4 +39,4 @@ The service hosting the layer must support dynamic layers to be able to change t
 
 ## Offline data
 
-This should be allowed. 
+This should be allowed.
