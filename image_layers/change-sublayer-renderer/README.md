@@ -27,11 +27,9 @@ A layer showing animal populations contains sublayers for different species. A r
 class breaks, dynamic layer, dynamic rendering, renderer, sublayer, symbology, visualization
 
 ## About the data
-
 This application displays census data from an ArcGIS Server map service. It contains various population statistics, including total population for each county in 2007.
 
 ## Additional information
-
 The service hosting the layer must support dynamic layers to be able to change the rendering of sublayers.
 
 ## Offline data
