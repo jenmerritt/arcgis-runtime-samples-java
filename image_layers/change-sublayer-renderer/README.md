@@ -25,10 +25,6 @@ Wait for the map image layer to load. Click the 'Change sublayer renderer' butto
 * ArcGISMapImageSubLayer
 * ClassBreaksRenderer
 
-## Tags
-
-class breaks, dynamic layer, dynamic rendering, renderer, sublayer, symbology, visualization
-
 ## About the data
 
 This application displays census data from an ArcGIS Server map service. It contains various population statistics, including total population for each county in 2007.
@@ -37,6 +33,6 @@ This application displays census data from an ArcGIS Server map service. It cont
 
 The service hosting the layer must support dynamic layers to be able to change the rendering of sublayers.
 
-## Offline data
+## Tags
 
-This should be allowed.
+class breaks, dynamic layer, dynamic rendering, dynamic layer, renderer, sublayer, symbology, visualization
