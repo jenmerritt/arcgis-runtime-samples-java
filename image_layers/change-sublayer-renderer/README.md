@@ -2,7 +2,6 @@
 
 Apply a renderer to a sublayer.
 
-![Image of change sublayer renderer](ChangeSublayerRenderer.png)
 
 ## Use case
 
@@ -22,8 +21,8 @@ Wait for the map image layer to load. Click the 'Change sublayer renderer' butto
 
 ## Relevant API
 
-* ArcGISMapImageSubLayer
-* ClassBreaksRenderer
+1. ArcGISMapImageSubLayer
+2. ClassBreaksRenderer
 
 ## About the data
 
