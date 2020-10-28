@@ -1,4 +1,4 @@
-# Change sublayer renderer
+# Change Sublayer Renderer
 
 Apply a renderer to a sublayer.
 
@@ -22,7 +22,6 @@ Wait for the map image layer to load. Click the 'Change sublayer renderer' butto
 
 ## Relevant API
 
-* ArcGISMapImageLayer
 * ArcGISMapImageSubLayer
 * ClassBreaksRenderer
 
