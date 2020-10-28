@@ -22,8 +22,8 @@ Wait for the map image layer to load. Click the 'Change sublayer renderer' butto
 
 ## Relevant API
 
-* ArcGISMapImageSubLayer
-* ClassBreaksRenderer
+- ArcGISMapImageSubLayer
+- ClassBreaksRenderer
 
 ## About the data
 
