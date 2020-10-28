@@ -21,6 +21,7 @@ A layer showing animal populations contains sublayers for different species. A r
 
 * ArcGISMapImageSubLayer
 * ClassBreaksRenderer
+* ClassBreaksRenderer
 
 ## Tags
 
