@@ -8,6 +8,10 @@ Apply a renderer to a sublayer.
 
 A layer showing animal populations contains sublayers for different species. A renderer could be applied which gives each sublayer a different color, so that populations of each species can be compared visually.
 
+## How to use the sample
+
+Wait for the map image layer to load. Click the 'Change sublayer renderer' button to apply a unique value renderer to see different population ranges in the counties sub-layer data.
+
 ## How it works
 
 1. Create an `ArcGISMapImageLayer` from its URL.
