@@ -1,4 +1,4 @@
-# Display map
+## Display map
 
 Display a map with an imagery basemap.
 
@@ -8,7 +8,7 @@ Display a map with an imagery basemap.
 
 The map is the fundamental building block of any GIS application and is used to specify how geographic data is organized and communicated to your users.
 
-# How to use the sample
+## How to use the sample
 
 Run the sample to view the map. Pan and zoom to navigate the map.
 
