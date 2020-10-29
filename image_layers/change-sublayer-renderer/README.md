@@ -1,10 +1,10 @@
-## Change sublayer renderer
+# Change sublayer renderer
 
 Apply a renderer to a sublayer.
 
 ![Image of change sublayer renderer](ChangeSublayerRenderer.png)
 
-# Use case
+## Use case
 
 A layer showing animal populations contains sublayers for different species. A renderer could be applied which gives each sublayer a different color, so that populations of each species can be compared visually.
 
