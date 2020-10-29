@@ -35,4 +35,4 @@ The service hosting the layer must support dynamic layers to be able to change t
 
 ## Tags
 
-class breaks, dynamic layer, dynamic rendering, dynamic layer, renderer, sublayer, symbology, visualization
+class breaks, dynamic layer, dynamic rendering, renderer, sublayer, symbology, visualization
