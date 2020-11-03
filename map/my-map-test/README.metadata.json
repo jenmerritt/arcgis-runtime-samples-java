@@ -19,8 +19,7 @@
         "MapView"
     ],
     "snippets": [
-      "src/main/java/com/esri/samples/display_map/MyMapTestLauncher.java",
       "src/main/java/com/esri/samples/display_map/MyMapTestSample.java"
     ],
-    "title": "Display map"
+    "title": "My map test"
 }
