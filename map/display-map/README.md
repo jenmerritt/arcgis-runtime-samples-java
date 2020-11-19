@@ -2,8 +2,6 @@
 
 Display a map with an imagery basemap.
 
-![Image of display map](DisplayMap.png)
-
 ## Use case
 
 The map is the fundamental building block of any GIS application and is used to specify how geographic data is organized and communicated to your users.
