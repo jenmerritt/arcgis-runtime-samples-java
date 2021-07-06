@@ -1,6 +1,6 @@
 # Surface placement
 
-Position graphics relative to a surface using different surface placement modes.
+Position graphics relative to a surface using different surface placement modes. Additional comment.
 
 ![Image of surface placement](SurfacePlacement.png)
 

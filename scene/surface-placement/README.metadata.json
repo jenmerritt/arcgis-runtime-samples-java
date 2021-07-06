@@ -1,6 +1,6 @@
 {
     "category": "Scene",
-    "description": "Position graphics relative to a surface using different surface placement modes.",
+    "description": "Position graphics relative to a surface using different surface placement modes. Additional comment.",
     "ignore": false,
     "images": [
         "SurfacePlacement.png"
